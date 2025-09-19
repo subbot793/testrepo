@@ -1,0 +1,28 @@
+git config --global user.name
+git config --global user.email
+
+git config --global user.name "nitz786"
+git config --global user.email "nitz@gmail.com"
+
+
+
+
+
+
+
+
+4 ways to push projects to github
+
+1. github
+2. git
+3. ide
+4. gitlab
+
+
+
+
+
+
+
+
+

@@ -17,6 +17,9 @@ git config --global user.email "nitz@gmail.com"
 2. git
 3. ide
 4. gitlab
+5. test
+6. test2
+
 
 
 
